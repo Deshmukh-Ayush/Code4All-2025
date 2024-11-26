@@ -1,6 +1,6 @@
 # Code4All Website
 
-Welcome to the Code4All Website! This project is designed to handle up to 5000 users and provides an engaging platform for sharing knowledge, events, and competitive programming opportunities. Built with modern web technologies like **Next.js**, **Node.js**, **MongoDB**, and more, it offers a seamless experience for users and contributors.
+Welcome to the Code4All Website! This website is designed to provides an engaging platform for sharing knowledge, events, and competitive programming opportunities. Built with modern web technologies like **Next.js**, **Node.js**, **NeonDB**, **Clerk**, **Prisma** and more, it offers a seamless experience for users and contributors.
 
 ---
 
@@ -8,7 +8,6 @@ Welcome to the Code4All Website! This project is designed to handle up to 5000 u
 - **Authentication & Authorization**: Secure login and role-based access control using NextAuth.
 - **Blogs Page**: A dedicated section for insightful articles and updates.
 - **Events Page**: Stay informed about upcoming events and activities.
-- **React Drift Page**: A curated space for React learning resources.
 - **Competitive Programming Page**: Challenge yourself with problems and solutions.
 - **Newsletter Feature**: Keep the community updated with regular newsletters.
 
@@ -21,7 +20,7 @@ The Code4All platform is built for **community-driven innovation**. Whether you'
 2. Check out our [events](#) and [blogs](#) for the latest updates.
 3. Stay connected with newsletters for exciting announcements.
 
-For any queries or feedback, reach out to us at [support@code4all.com](mailto:support@code4all.com).
+For any queries or feedback, reach out to us at [code4allclub2024@gmail.com](mailto:code4allclub2024@gmail.com).
 
 ---
 
@@ -34,5 +33,70 @@ First, fork this repository to your GitHub account using the **Fork** button at 
 
 ### 2. Clone the Repository
 After forking, clone the repository to your local machine:  
-```bash
-git clone https://github.com/<your-username>/code4all-website.git
+
+```
+git clone [https://github.com/<your-username>/code4all-website.git](https://github.com/Deshmukh-Ayush/Code4All-2025.git)
+```
+
+Alternatively, you can download the ZIP folder and extract it.
+
+### 3. Create a New Branch
+Always create a new branch for your changes. Use your name or a descriptive identifier for the branch:
+
+```
+git checkout -b <your-branch-name>
+```
+
+### 4. Install Dependencies
+Navigate to the project directory and install the required dependencies:
+
+``` 
+cd code4all-website
+npm install
+```
+
+### 5. Set Up Environment Variables
+Create a ```.env.local``` file in the root directory and add the necessary environment variables. Refer to .```env.example``` for guidance.
+
+### 6. Run the Development Server
+Start the development server with:
+
+```
+npm run dev
+```
+Visit http://localhost:3000 to view the project in your browser.
+
+### 7. Make Changes and Commit
+After making your changes, commit them with a descriptive message:
+
+```
+git add .
+git commit -m "Description of changes"
+```
+
+### 8. Push to Your Fork
+Push your changes to your forked repository:
+```
+git push origin <your-branch-name>
+```
+
+### 9. Create a Pull Request
+Go to the original repository on GitHub, navigate to the Pull Requests tab, and create a new pull request.
+
+
+### 🛠️ Technologies Used
+- Next.js 15 (App Router)
+- Node.js & Express.js
+- NeonDB (Cloud Postgres)
+- Clerk (Authentication)
+- Tailwind CSS (Styling)
+
+### 💌 Contact
+For any questions or support, feel free to reach out at code4allclub2024@gmail.com.
+
+Happy Coding! 🎉
+
+```
+This structured `README.md` gives a comprehensive overview for both public users and developers. Let me know if you want any changes!
+```
+
