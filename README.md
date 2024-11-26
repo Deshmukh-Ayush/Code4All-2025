@@ -1,6 +1,6 @@
-# Code4All Website
+# Code4All Club Website
 
-Welcome to the Code4All Website! This website is designed to provides an engaging platform for sharing knowledge, events, and competitive programming opportunities. Built with modern web technologies like **Next.js**, **Node.js**, **NeonDB**, **Clerk**, **Prisma** and more, it offers a seamless experience for users and contributors.
+Welcome to the Code4All Club Website! This website is designed to provides an engaging platform for sharing knowledge, events, and competitive programming opportunities. Built with modern web technologies like **Next.js**, **Node.js**, **NeonDB**, **Clerk**, **Prisma** and more, it offers a seamless experience for users and contributors.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the Code4All Website! This website is designed to provides an engagin
 ---
 
 ## 📜 Public Readables
-The Code4All platform is built for **community-driven innovation**. Whether you're here to contribute code or participate in our features, we welcome your enthusiasm! Here's what you need to know: 
+The Code4All Club platform is built for **community-driven innovation**. Whether you're here to contribute code or participate in our features, we welcome your enthusiasm! Here's what you need to know: 
 
 1. Explore our platform and give feedback to improve the experience.
 2. Check out our [events](#) and [blogs](#) for the latest updates.
@@ -26,7 +26,7 @@ For any queries or feedback, reach out to us at [code4allclub2024@gmail.com](mai
 
 ## 👨‍💻 Developer Guide
 
-We welcome developers to contribute to the Code4All Website! Follow these steps to get started:
+We welcome developers to contribute to the Code4All Club Website! Follow these steps to get started:
 
 ### 1. Fork the Repository
 First, fork this repository to your GitHub account using the **Fork** button at the top right.
@@ -99,4 +99,3 @@ Happy Coding! 🎉
 ```
 This structured `README.md` gives a comprehensive overview for both public users and developers. Let me know if you want any changes!
 ```
-
