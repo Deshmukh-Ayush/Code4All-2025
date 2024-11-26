@@ -5,7 +5,7 @@ const page = () => {
     <div>
       <h1>Basic structure</h1>
       <h3>Public Routes</h3>
-      <p>"/"</p>
+      <p>"/ - this route is accessible "</p>
       <p>"About"</p>
       <p>"Team"</p>
       <p>"Contact"</p>
