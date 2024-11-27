@@ -1,8 +1,12 @@
 import React from 'react'
+import { SignedIn, UserButton } from "@clerk/nextjs"
 
 const page = () => {
   return (
     <div>
+      <SignedIn>
+        <UserButton />
+      </SignedIn>
       <h1>Basic structure</h1>
       <h3>Public Routes</h3>
       <p>"/ - this route is accessible "</p>
